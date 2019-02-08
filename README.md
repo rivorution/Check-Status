@@ -1,6 +1,6 @@
 <H1>กำลังพาท่านเข้าสู่หน้าหลัก</H1>
 <script language="JavaScript">
-	sec=10;
+	sec=5;
 	function tplus() {
 		sec-=1;
 		document.getElementById("OutputText").innerHTML="<font color=\'red\'>" + sec + " </font> Sec.";
