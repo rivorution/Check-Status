@@ -1,9 +1,9 @@
 <html>
 <body>
     <p> ตาราง </p>
-    <table border="1" width="100%" cellpadding="10">
+    <table border="1" width="100%" cellpadding="1">
     <tr>
-        <th align="center" width="50%"> โครงการก่อสร้าง</th>
+        <th align="center" width="100%"> โครงการก่อสร้าง</th>
         <th align="center"> มูลค่างาน (บาท)</th>
     </tr>
      </table>
