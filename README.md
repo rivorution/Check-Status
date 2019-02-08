@@ -1,6 +1,7 @@
-<FONT COLOR=green>
-<H1>กำลังพาท่านเข้าสู่หน้าหลัก</H1> </FONT>
-</FONT>
+
+<H1><FONT COLOR=greenกำลังพาท่านเข้าสู่หน้าหลัก></H1>
+
+
 <script language="JavaScript">
 	sec=5;
 	function tplus() {
