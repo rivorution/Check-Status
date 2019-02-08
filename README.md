@@ -1,6 +1,6 @@
 <html>
 <body>
-    <p> ตาราง </p>
+    <p>  </p>
     <table border="1" width="100%" cellpadding="1">
     <tr>
         <th align="center" width="100%"> ยินดีต้อนรับ</th>
