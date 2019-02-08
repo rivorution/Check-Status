@@ -1,4 +1,4 @@
-<font size="7"> Hello welcome lady&gentleman </font> <br>
+<font color=“#66FFCC” size="7"> Hello welcome lady&gentleman </font>  <br>
 <html>
 <body>
     <p>  </p>
@@ -11,7 +11,6 @@
 </body>
 </html>
 <body background="https://sv1.picz.in.th/images/2019/02/08/T5Y8Y0.jpg"> 
-<font size="7"> Hello welcome lady&gentleman </font> <br>
-    <img src="http://myglitters.info/images/welcome-1246637813.gif"
+ <img src="http://myglitters.info/images/welcome-1246637813.gif"
          width="500" height="170">
     
