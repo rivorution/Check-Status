@@ -1,7 +1,7 @@
 <html>
 <body>
     <p>  </p>
-    <table border="0" width="100%" cellpadding="1">
+    <table border="0" width="100%" cellpadding="1" bgcolor="yellow">
     <tr>
         <th align="center" width="100%"> ยินดีต้อนรับ</th>
         <th align="center"> </th>
