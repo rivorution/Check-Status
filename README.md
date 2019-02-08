@@ -1,7 +1,7 @@
 <html>
 <body>
     <p> ตาราง </p>
-    <table border ="1"
+    <table border ="1"width="100%
            bgcolor="#80c22c">
       <tr>
           <td>แถวที่ 1 , หลักที่ 1</td>
