@@ -9,7 +9,7 @@
 		if (sec==0) {
 			document.getElementById("OutputText").innerHTML="Go!";
 			document.getElementById("OutputText2").innerHTML="";
-			window.location.replace("http://เว็บเป้าหมาย");
+			window.location.replace("https://goo.gl/Deaj78");
 		}
 		if (sec>0) {setTimeout("tplus()",1000);}
 	}
