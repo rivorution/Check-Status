@@ -12,4 +12,4 @@
 <body background="https://sv1.picz.in.th/images/2019/02/08/T5Y8Y0.jpg"> 
 <font size="7"> Hello welcome lady&gentleman </font> <br>
     <img src="https://image.dek-d.com/27/0264/6867/125546651"
-         width="128" height="128">
+         width="500" height="170">
