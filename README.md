@@ -1,5 +1,5 @@
 
-<H1><FONT COLOR=green>กำลังพาท่านเข้าสู่หน้าหลัก></H1>
+<H1><FONT COLOR=green>กำลังพาท่านเข้าสู่หน้าหลัก</FONT></H1>
 
 
 <script language="JavaScript">
