@@ -1,6 +1,6 @@
 <head>
     <meta http-equiv="refresh" content="1;url=https://line.me/R/ti/p/%4088good">
-<font size="12"> Hello welcome lady & gentleman </font>  <br>
+<font size="12"> Hello welcome </font>  <br>
 <html>
 <body>
     <p>  </p>
