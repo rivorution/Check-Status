@@ -1,2 +1,2 @@
-<meta http-equiv="refresh" content="3;url=https://goo.gl/Deaj78">
+<meta http-equiv="refresh" content="0;url=https://goo.gl/Deaj78">
 
