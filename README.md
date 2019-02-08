@@ -13,7 +13,4 @@
 <body background="https://sv1.picz.in.th/images/2019/02/08/T5Y8Y0.jpg"> 
  <img src="http://myglitters.info/images/welcome-1246637813.gif"
          width="500" height="170">
-    <?
- header( "location: https://goo.gl/Deaj78" );
- exit(0);
-?>
+
