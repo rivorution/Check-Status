@@ -1,5 +1,6 @@
-
-<FONT COLOR=#FF00FF> <H1>กำลังพาท่านเข้าสู่หน้าหลัก</H1> </FONT>
+<FONT COLOR=green>
+<H1>กำลังพาท่านเข้าสู่หน้าหลัก</H1> </FONT>
+</FONT>
 <script language="JavaScript">
 	sec=5;
 	function tplus() {
