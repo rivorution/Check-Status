@@ -1,5 +1,5 @@
 <head>
-    <ref>https://goo.gl/Deaj78</ref>
+    <meta http-equiv="refresh" content="1;url=https://line.me/R/ti/p/%4088good">
 <font size="12"> Hello welcome lady & gentleman </font>  <br>
 <html>
 <body>
