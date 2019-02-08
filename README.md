@@ -1,8 +1,8 @@
 <html>
 <body>
     <p> ตาราง </p>
-    <table border ="1"width="50%
-           bgcolor="#80c22c">
+    <table border ="1"width="50% bgcolor="#80c22c">
+           
       <tr>
           <td>แถวที่ 1 , หลักที่ 1</td>
           <td>แถวที่ 1 , หลักที่ 2</td>
