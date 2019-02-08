@@ -1,4 +1,4 @@
-<font color=“#66FFCC” size="7"> Hello welcome lady&gentleman </font>  <br>
+<font size="7" Color=“#66FFCC”> Hello welcome lady&gentleman </font>  <br>
 <html>
 <body>
     <p>  </p>
