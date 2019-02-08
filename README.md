@@ -1,5 +1,6 @@
 
-<H1><FONT COLOR=green>กำลังพาท่านเข้าสู่หน้าหลัก</FONT></H1>
+<FONT SIZE=6>กำลังพาท่านเข้าสู่หน้าหลัก</FONT>
+      <FONT Color=green</font>
 
 
 <script language="JavaScript">
