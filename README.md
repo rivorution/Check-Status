@@ -1,6 +1,4 @@
-<FONT Color=green
-  <FONT SIZE=20>กำลังพาท่านเข้าสู่หน้าหลัก</FONT>
- </font>
+<font color="red"> <H1> กำลังพาท่านเข้าสู่หน้าหลัก</H1> </font>
 
 
 <script language="JavaScript">
